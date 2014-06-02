@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m \
-  /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.h
+  /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/AppDelegate.m \
+  /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/AppDelegate.h

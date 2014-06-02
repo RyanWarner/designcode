@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m \
-  /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.h
+  /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/ViewController.m \
+  /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/ViewController.h
