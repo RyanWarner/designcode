@@ -431,11 +431,11 @@ t1401731099
 s88588
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
-t1401749373
+t1401749948
 s782
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app.dSYM
-t1401749176
+t1401749373
 s102
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Base.lproj/Main_iPad.storyboardc
@@ -443,7 +443,7 @@ t1401686976
 s170
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Base.lproj/Main_iPhone.storyboardc
-t1401749373
+t1401749948
 s306
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Info.plist
@@ -451,7 +451,7 @@ t1401749176
 s1860
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Nature News
-t1401749228
+t1401749373
 s65536
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/PkgInfo
@@ -486,9 +486,9 @@ t1401686034
 s1811
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard
-c00000000538CFF7C000000000000C9F7
-t1401749372
-s51703
+c00000000538D017B000000000000C9F6
+t1401749883
+s51702
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/HomeViewController.h
 c00000000538CC5FD00000000000000E2
@@ -566,7 +566,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb533fcfc363db941^05dbfcfc363db941^---0#1#1#--18"Check dependencies36"65B75DD0-1244-45AC-BF12-DECE7042B83D-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb85ba63b393db941^93a9a63b393db941^---0#1#1#--18"Check dependencies36"5C9E1A6F-9725-4A60-B7A5-FC663CD41AEE-
 
 CCodeSign /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
 s423381303.870478
@@ -579,14 +579,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CodeSig
 b24C99224-7D02-4D58-9FFC-055BF0C66575
 
 CCodeSign /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
-s423442173.449425
-e423442173.597527
+s423442748.331026
+e423442748.471852
 r1
 xCodeSign
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
 o/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app: replacing existing signature
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.appf41a73fd363db941^0ef898fd363db941^-149"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@130"file:///Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app/0000000000000000^1175"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Connie Warner (C3K3J78W9Q)" and provisioning profile "iOS Team Provisioning Profile: *" (8063C682-0B10-488B-8FFD-2FDAF5FE779C)    /usr/bin/codesign --force --sign E3E23489F4A3A1FF98EA87E903BC4F63D85DF065 --resource-rules=/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist --entitlements /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"4A695FFF-A7AA-4DFB-B84D-3A8CFC38BCBC-
-b9B2BA798-478F-40EE-A330-DD3B8DF66B02
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app47cc543c393db941^57cc783c393db941^-149"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@130"file:///Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app/0000000000000000^1175"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Connie Warner (C3K3J78W9Q)" and provisioning profile "iOS Team Provisioning Profile: *" (8063C682-0B10-488B-8FFD-2FDAF5FE779C)    /usr/bin/codesign --force --sign E3E23489F4A3A1FF98EA87E903BC4F63D85DF065 --resource-rules=/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist --entitlements /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"7B553872-4BE6-451E-B395-9059BB4E1AF9-
+bACEA407C-6178-483C-BAA7-7868BA0960B9
 
 CCompileAssetCatalog /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Images.xcassets
 s423380041.910088
@@ -813,13 +813,13 @@ CCompileStoryboard /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News
 r0
 
 CCompileStoryboard /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard
-s423442172.988050
-e423442173.392479
+s423442747.652677
+e423442748.322236
 r1
 xCompileStoryboard
 x/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard98fbfcfc363db941^fe7b64fd363db941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^871"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Base.lproj/Main_iPhone.storyboardc /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard36"0503D547-DD8E-452E-8DC9-A2D36D0DECDD-
-b9B2BA798-478F-40EE-A330-DD3B8DF66B02
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboarda720a73b393db941^6b80523c393db941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^871"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Base.lproj/Main_iPhone.storyboardc /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard36"A1A7ED17-74EC-423D-9058-C2DE987189AF-
+bACEA407C-6178-483C-BAA7-7868BA0960B9
 
 CCopyStringsFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings
 s423379775.572592
@@ -1128,11 +1128,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch 
 b24C99224-7D02-4D58-9FFC-055BF0C66575
 
 CTouch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
-s423442173.440903
-e423442173.448878
+s423442748.323173
+e423442748.330488
 r1
 xTouch
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Touch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app77"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app92e970fd363db941^d9ee72fd363db941^---0#0#1#--465"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"8B4C3672-929D-490B-B903-F09CB8CC66DB-
-b9B2BA798-478F-40EE-A330-DD3B8DF66B02
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Touch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app77"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.appacc6523c393db941^1b9c543c393db941^---0#0#1#--465"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"F81F90AB-92F3-4548-B42F-360DEF86C617-
+bACEA407C-6178-483C-BAA7-7868BA0960B9
 
