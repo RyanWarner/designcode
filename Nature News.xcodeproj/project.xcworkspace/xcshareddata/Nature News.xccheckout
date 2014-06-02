@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>65C6C8FB-67F8-424B-A7B3-3020FC16DB30</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Nature News</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C94147CD-BD07-4BB9-A112-E32CB858DEBC</key>
+		<string>https://github.com/RyanWarner/designcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Nature News.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C94147CD-BD07-4BB9-A112-E32CB858DEBC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RyanWarner/designcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C94147CD-BD07-4BB9-A112-E32CB858DEBC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C94147CD-BD07-4BB9-A112-E32CB858DEBC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>designcode</string>
+		</dict>
+	</array>
+</dict>
+</plist>

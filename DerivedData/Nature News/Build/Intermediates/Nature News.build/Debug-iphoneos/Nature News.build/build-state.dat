@@ -1,0 +1,701 @@
+TNature News
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist
+cProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News normal armv7s
+cCompileStoryboard /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Images.xcassets
+cProcessInfoPlistFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Info.plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Nature\ News-Info.plist
+cGenerateDSYMFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app.dSYM /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News
+cProcessProductPackaging /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision
+cTouch /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent
+cCodeSign /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534848180000000000000132
+t1397245976
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531F6CD80000000000000094
+t1394568408
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531F6CD80000000000000096
+t1394568408
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F6CD8000000000000036B
+t1394568408
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F6CD8000000000000019E
+t1394568408
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F6CD9000000000063A500
+t1394568409
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F6CDA000000000079C660
+t1394568410
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348480600000000004D7BC0
+t1397245958
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F6CD90000000000433410
+t1394568409
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F6CDA0000000000306EF0
+t1394568410
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F6CD9000000000006DCD0
+t1394568409
+s449744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F6CDA0000000000A90C10
+t1394568410
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F6CDA00000000000417E0
+t1394568410
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F6CDB0000000000649DB0
+t1394568411
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F6CDB0000000000186D60
+t1394568411
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F6CDD0000000002759920
+t1394568413
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F6CDF0000000000385D50
+t1394568415
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F6CE1000000000001E300
+t1394568417
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F6CE1000000000055EFE0
+t1394568417
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c00000000531F6CE1000000000002A880
+t1394568417
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000531F6CE100000000000458C0
+t1394568417
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000531F6CE1000000000003E3E0
+t1394568417
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c00000000531F6CE1000000000002B130
+t1394568417
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000531F6CE100000000000E1FD0
+t1394568417
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F6CE100000000000A2A70
+t1394568417
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c00000000531F6CE1000000000001E8A0
+t1394568417
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+c00000000531F6CE1000000000000BF00
+t1394568417
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c00000000531F6CE10000000000034380
+t1394568417
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c00000000531F6CE10000000000022F30
+t1394568417
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c00000000531F6CE1000000000001E2A0
+t1394568417
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000531F6CE10000000000052520
+t1394568417
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000531F6CE10000000000015F20
+t1394568417
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531F6CE100000000001B90D0
+t1394568417
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531F6CE1000000000001F170
+t1394568417
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531F6CE1000000000002FCF0
+t1394568417
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c00000000531F6CE1000000000008A150
+t1394568417
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531F6CE100000000000B60E0
+t1394568417
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c00000000531F6CE10000000000078720
+t1394568417
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531F6CE100000000000621F0
+t1394568417
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F6CE100000000000BDAE0
+t1394568417
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000531F6CE10000000000039080
+t1394568417
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531F6CE1000000000003CBC0
+t1394568417
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000531F6CE1000000000002CFE0
+t1394568417
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531F6CE1000000000001EB50
+t1394568417
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531F6CE1000000000001EED0
+t1394568417
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c00000000531F6CE100000000000236B0
+t1394568417
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F6CE100000000000AC500
+t1394568417
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F6CF90000000000000ADC
+t1394568441
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053484806000000000000514C
+t1397245958
+s20812
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Nature News.xcent
+t1401687243
+s495
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/AppDelegate.o
+t1401686975
+s61776
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/Nature News.LinkFileList
+c00000000538C0BBE000000000000021E
+t1401686974
+s542
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/ViewController.o
+t1401686975
+s39264
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/main.o
+t1401686975
+s3824
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/assetcatalog_dependencies.txt
+t1401687243
+s2060
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/assetcatalog_generated_info.plist
+t1401687243
+s1354
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/PrecompiledHeaders/Nature News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature News-Prefix.pch.pch
+t1401686975
+s88672
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
+t1401688503
+s782
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app.dSYM
+t1401687243
+s102
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Base.lproj/Main_iPad.storyboardc
+t1401686976
+s170
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Base.lproj/Main_iPhone.storyboardc
+t1401688503
+s408
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Info.plist
+t1401687243
+s1860
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Nature News
+t1401687339
+s64304
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/PkgInfo
+t1401687243
+s8
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/ResourceRules.plist
+t1401686974
+s150
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/embedded.mobileprovision
+t1401686977
+s18395
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/en.lproj/InfoPlist.strings
+t1401686975
+s42
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.h
+c00000000538C08120000000000000118
+t1401686034
+s280
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.m
+c00000000538C081200000000000007DA
+t1401686034
+s2010
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Base.lproj/Main_iPad.storyboard
+c00000000538C08120000000000000713
+t1401686034
+s1811
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Base.lproj/Main_iPhone.storyboard
+c00000000538C11B70000000000001EEC
+t1401688503
+s7916
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Images.xcassets
+c00000000538C0CC60000000000000110
+t1401687238
+s272
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Nature News-Info.plist
+c00000000538C08120000000000000632
+t1401686034
+s1586
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Nature News-Prefix.pch
+c00000000538C08120000000000000158
+t1401686034
+s344
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.h
+c00000000538C081200000000000000DA
+t1401686034
+s218
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.m
+c00000000538C081200000000000001F0
+t1401686034
+s496
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/en.lproj/InfoPlist.strings
+c00000000538C0812000000000000002D
+t1401686034
+s45
+
+N/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/main.m
+c00000000538C08120000000000000154
+t1401686034
+s340
+
+N/Users/ryanwarner/Library/MobileDevice/Provisioning Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision
+c000000005387CA8200000000000047DB
+t1401408130
+s18395
+
+CBuild AST from /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m
+r0
+
+CBuild AST from /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m
+r0
+
+CBuild AST from /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescde95637493cb941^4e5e6437493cb941^---0#1#1#--18"Check dependencies36"CB5395FA-7B7B-46A5-9B94-CAAD22C5B88A-
+
+CCodeSign /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
+s423381303.870478
+e423381304.036574
+r1
+xCodeSign
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app80"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.appeaeade37493cb941^925d0938493cb941^-151"/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@136"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app/0000000000000000^1191"CodeSign DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Connie Warner (C3K3J78W9Q)" and provisioning profile "iOS Team Provisioning Profile: *" (8063C682-0B10-488B-8FFD-2FDAF5FE779C)    /usr/bin/codesign --force --sign E3E23489F4A3A1FF98EA87E903BC4F63D85DF065 --resource-rules=/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist --entitlements /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"79F9C62E-80D3-4744-8A36-6B82F580CAE5-
+b24C99224-7D02-4D58-9FFC-055BF0C66575
+
+CCompileAssetCatalog /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Images.xcassets
+s423380041.910088
+e423380043.177965
+r1
+xCompileAssetCatalog
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29@2x.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40@2x.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon60x60@2x.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29@2x~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40@2x~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon76x76~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon76x76@2x~ipad.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/LaunchImage-700@2x.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/LaunchImage-700-568h@2x.png
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Assets.car
+o/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CompileAssetCatalog DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app Nature\ News/Images.xcassets120"CompileAssetCatalog DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app Nature\ News/Images.xcassets6407e949443cb941^71547a4b443cb941^-2077"/* com.apple.actool.compilation-results *//Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29@2x.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40@2x.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon60x60@2x.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon29x29@2x~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon40x40@2x~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon76x76~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/AppIcon76x76@2x~ipad.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/LaunchImage-700@2x.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/LaunchImage-700-568h@2x.png/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Assets.car/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@92"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/Images.xcassets/0000000000000000^1282"CompileAssetCatalog DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app Nature\ News/Images.xcassets    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Images.xcassets36"8FE03ABA-AC1D-44A8-9E11-BD1EC3357FB6-
+b34282B6C-D683-42F4-ACA5-40E21EA24FB2
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/arm64/AppDelegate.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/arm64/ViewController.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/arm64/main.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7/AppDelegate.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7/ViewController.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7/main.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423379775.216899
+e423379775.326785
+r1
+xCompileC
+xDerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.m
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.m239"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.o Nature\ News/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler569b373f433cb941^76a7533f433cb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/AppDelegate.m0000000000000000^4162"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.o Nature\ News/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources/armv7s -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos -include /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/AppDelegate.m -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/AppDelegate.o36"546D4336-790C-47A2-8E08-D4D46BB0F830-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423379775.216722
+e423379775.326572
+r1
+xCompileC
+xDerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/ViewController.o
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.m
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/ViewController.m245"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.o Nature\ News/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6490373f433cb941^e19a533f433cb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/ViewController.m0000000000000000^4180"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.o Nature\ News/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources/armv7s -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos -include /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.dia -c /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/ViewController.m -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/ViewController.o36"597D3EBE-1C8F-421D-8D48-B8467B863661-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423379775.217283
+e423379775.326609
+r1
+xCompileC
+xDerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/main.o
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/main.m
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/main.m225"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.o Nature\ News/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler56b6373f433cb941^dc9f533f433cb941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/main.m0000000000000000^4120"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.o Nature\ News/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources/armv7s -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos -include /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.dia -c /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/main.m -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/main.o36"51276EB5-C24A-4185-8A08-2E491DF4E86F-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCompileStoryboard /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPad.storyboard
+s423379775.572337
+e423379776.441094
+r1
+xCompileStoryboard
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard Nature\ News/Base.lproj/Main_iPad.storyboard62"CompileStoryboard Nature\ News/Base.lproj/Main_iPad.storyboard6990923f433cb941^ddeb7040433cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/Base.lproj/Main_iPad.storyboard0000000000000000^877"CompileStoryboard Nature\ News/Base.lproj/Main_iPad.storyboard    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Base.lproj/Main_iPad.storyboardc /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPad.storyboard36"4BC4C64B-2DFB-4B84-AAA5-4A0F3AD71A6C-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCompileStoryboard /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPhone.storyboard
+s423381303.373088
+e423381303.842999
+r1
+xCompileStoryboard
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard368f5f37493cb941^70cfd737493cb941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^883"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Base.lproj/Main_iPhone.storyboardc /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Base.lproj/Main_iPhone.storyboard36"1301B7D7-1D75-4E34-B6B4-370E672C6327-
+b24C99224-7D02-4D58-9FFC-055BF0C66575
+
+CCopyStringsFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings
+s423379775.572592
+e423379775.573577
+r1
+xCopyStringsFile
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/en.lproj/InfoPlist.strings
+xNature News/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Nature News/en.lproj/InfoPlist.strings154"CopyStringsFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings4da2923f433cb941^bbd6923f433cb941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/en.lproj/InfoPlist.strings0000000000000000^670"CopyStringsFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/en.lproj -- Nature\ News/en.lproj/InfoPlist.strings36"4E3629C7-7527-4053-B0AF-2F45E55D6435-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist
+s423379774.073291
+e423379774.074731
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/ResourceRules.plist224"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist40db123e433cb941^eab1153e433cb941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app/ResourceRules.plist0000000dca9cf041^832"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"B07118D5-4576-4FAF-9789-FA34D83E88D5-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CCreateUniversalBinary /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News normal armv7\ armv7s\ arm64
+r0
+
+CGenerateDSYMFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app.dSYM /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News
+s423381303.843580
+e423381303.862060
+r1
+xGenerateDSYMFile
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app.dSYM
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Nature News
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app.dSYM178"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ Newsda00d837493cb941^e2b0dc37493cb941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app.dSYM/0000000000000000^798"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app.dSYM36"7178512B-9124-4AD2-8737-E3EF9A0940C9-
+b24C99224-7D02-4D58-9FFC-055BF0C66575
+
+CLd /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/arm64/Nature\ News normal arm64
+r0
+
+CLd /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7/Nature\ News normal armv7
+r0
+
+CLd /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/Nature\ News normal armv7s
+r0
+
+CLd /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News normal armv7s
+s423379775.327317
+e423379775.571734
+r1
+xLd
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Nature News
+xnormal
+xarmv7s
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/Nature News.LinkFileList
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/ViewController.o
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Objects-normal/armv7s/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Link /Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Nature News101"Ld DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News normal armv7s34d9533f433cb941^f25d923f433cb941^---0#0#1#--1558"Ld DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News normal armv7s    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos -F/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos -filelist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/Nature\ News.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Objects-normal/armv7s/Nature\ News_dependency_info.dat -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Nature\ News36"FAC7FFE8-9B7D-403A-9A39-E43577BEBBCF-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CProcessInfoPlistFile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Info.plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Nature\ News-Info.plist
+s423380043.178379
+e423380043.179841
+r1
+xProcessInfoPlistFile
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/Info.plist
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Nature News-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Nature News-Info.plist140"ProcessInfoPlistFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Info.plist Nature\ News/Nature\ News-Info.plist5fb62d4b443cb941^78987a4b443cb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/Nature%20News-Info.plist0000000000000000^1219"ProcessInfoPlistFile DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Info.plist Nature\ News/Nature\ News-Info.plist    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Nature\ News-Info.plist -genpkginfo /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/ResourceRules.plist -additionalcontentfile /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/assetcatalog_generated_info.plist -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/Info.plist36"6653E2C7-4A01-4DE5-BA9D-9644C20BE3EB-
+b34282B6C-D683-42F4-ACA5-40E21EA24FB2
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-dlsfmltlxuzwkbbfcvkikzkmlqda/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-gwyhjkrddmhctfcsvmyfcjgwonlk/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423379774.076240
+e423379775.216068
+r1
+xProcessPCH
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/PrecompiledHeaders/Nature News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature News-Prefix.pch.pch
+xNature News/Nature News-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ryanwarner/Desktop/Forrest News/Nature News/Nature News/Nature News-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Nature News/Nature News-Prefix.pch258"ProcessPCH DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler09a5133e433cb941^f450373f433cb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/Nature%20News/Nature%20News-Prefix.pch0000000000000000^4016"ProcessPCH DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources/armv7s -I/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.dia -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.d -c /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/Nature\ News/Nature\ News-Prefix.pch -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-hdzndnccrbqhvpbxnyhkrlhkyjco/Nature\ News-Prefix.pch.pch36"E753DD9F-D837-47F2-AEC3-531119701DA8-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Index/PrecompiledHeaders/Nature\ News-Prefix-cipnlxadhmczxcheccdpcwoswkur_ast/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Index/PrecompiledHeaders/Nature\ News-Prefix-cnjuzicqgtzobkfkscjykmmgvmpi_ast/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Index/PrecompiledHeaders/Nature\ News-Prefix-evnousujqcsmvofhnjsiclczldgc_ast/Nature\ News-Prefix.pch.pch Nature\ News/Nature\ News-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent
+s423380043.208977
+e423380043.209910
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphoneos/Nature News.build/Nature News.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection261"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent261"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent508b354b443cb941^99a07a4b443cb941^---0#0#1#-19%DVTDocumentLocation2@182"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/DerivedData/Nature%20News/Build/Intermediates/Nature%20News.build/Debug-iphoneos/Nature%20News.build/Nature%20News.xcent0000000000000000^866"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphoneos/Nature\ News.build/Nature\ News.xcent36"BCBDE4EA-1E72-48D1-8D89-6CE5650BF1F3-
+b34282B6C-D683-42F4-ACA5-40E21EA24FB2
+
+CProcessProductPackaging /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision
+s423379777.075243
+e423379777.076666
+r1
+xProcessProductPackaging
+x/Users/ryanwarner/Library/MobileDevice/Provisioning Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection235"ProcessProductPackaging /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision235"ProcessProductPackaging /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision514f1341433cb941^1ba11341433cb941^---0#0#1#-19%DVTDocumentLocation2@160"file:///Users/ryanwarner/Desktop/Forrest%20News/Nature%20News/DerivedData/Nature%20News/Build/Products/Debug-iphoneos/Nature%20News.app/embedded.mobileprovision0000000dca9cf041^788"ProcessProductPackaging /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/ryanwarner/Library/MobileDevice/Provisioning\ Profiles/8063C682-0B10-488B-8FFD-2FDAF5FE779C.mobileprovision -o /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app/embedded.mobileprovision36"33382D8A-8C05-4F2F-A540-57BEF25E2C8C-
+b8634CB7D-8456-4038-B2CF-44FB27A84751
+
+CTouch /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app
+s423381303.862773
+e423381303.869828
+r1
+xTouch
+x/Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /Users/ryanwarner/Desktop/Forrest News/Nature News/DerivedData/Nature News/Build/Products/Debug-iphoneos/Nature News.app77"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app18eadc37493cb941^c5adde37493cb941^---0#0#1#--473"Touch DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app    cd "/Users/ryanwarner/Desktop/Forrest News/Nature News"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryanwarner/Desktop/Forrest\ News/Nature\ News/DerivedData/Nature\ News/Build/Products/Debug-iphoneos/Nature\ News.app36"3AB42780-BABF-419E-AD6C-ACDD95594EC8-
+b24C99224-7D02-4D58-9FFC-055BF0C66575
+
