@@ -109,7 +109,7 @@
                                         <rect key="frame" x="135" y="259" width="50" height="50"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <subviews>
-                                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="0s8-AI-UvE">
+                                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" animating="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="0s8-AI-UvE">
                                                 <rect key="frame" x="7" y="6" width="37" height="37"/>
                                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             </activityIndicatorView>
@@ -135,12 +135,12 @@
                         <outlet property="modalView" destination="s0z-V5-VgG" id="PXj-Z2-f4k"/>
                         <outlet property="passwordImageView" destination="bDM-qy-ZLC" id="6fD-c0-CgA"/>
                         <outlet property="passwordTextField" destination="oZW-y5-2f7" id="8Mp-Wj-KzC"/>
-                        <segue destination="Dfa-sg-Okq" kind="modal" identifier="loginToHomeScreen" modalTransitionStyle="flipHorizontal" id="3V2-VP-KjW"/>
+                        <segue destination="Dfa-sg-Okq" kind="modal" identifier="loginToHomeScene" modalTransitionStyle="flipHorizontal" id="3V2-VP-KjW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="504" y="141"/>
+            <point key="canvasLocation" x="502" y="141"/>
         </scene>
         <!--Table View Controller - Top Stories-->
         <scene sceneID="NWD-GE-1wR">

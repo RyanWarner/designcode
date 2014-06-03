@@ -175,8 +175,8 @@ BOOL errorIsActive;
                                                 NSString *token = [self.data valueForKeyPath:@"access_token"];
                                                 NSLog(@"%@", self.data);
                                                 
-                                                // If logged
-                                                if(token)
+                                                // If logged // replace the email and password checks with token to use actual api
+                                                if( ( ![email  isEqual: @""] ) && ( ![password  isEqual: @""] ) )
                                                 {
                                                     // Do something after logged
                                                     NSLog(@"I am logged!");
@@ -184,13 +184,13 @@ BOOL errorIsActive;
                                                     // Perform segue
                                                     [self performSegueWithIdentifier:@"loginToHomeScene" sender:self];
                                                 }
-                                                else {
+                                                else
+                                                {
                                                     [self doErrorMessage];
                                                 }
                                                 
                                             });
                                         }];
     [task resume];
-
 }
 @end
