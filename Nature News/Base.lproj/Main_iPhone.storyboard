@@ -105,6 +105,22 @@
                                             </userDefinedRuntimeAttribute>
                                         </userDefinedRuntimeAttributes>
                                     </view>
+                                    <view hidden="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LW7-fP-9v6">
+                                        <rect key="frame" x="135" y="259" width="50" height="50"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <subviews>
+                                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="0s8-AI-UvE">
+                                                <rect key="frame" x="7" y="6" width="37" height="37"/>
+                                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            </activityIndicatorView>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.80000000000000004" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                                <integer key="value" value="5"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </view>
                                 </subviews>
                             </scrollView>
                         </subviews>
@@ -114,10 +130,12 @@
                     <connections>
                         <outlet property="emailImageView" destination="25B-92-UrY" id="94u-5b-t5P"/>
                         <outlet property="emailTextField" destination="dHb-wh-KhN" id="ihl-ch-f01"/>
+                        <outlet property="loadingView" destination="LW7-fP-9v6" id="z2L-TM-3Nl"/>
                         <outlet property="loginButton" destination="UUd-3x-SAq" id="qP3-cU-c15"/>
                         <outlet property="modalView" destination="s0z-V5-VgG" id="PXj-Z2-f4k"/>
                         <outlet property="passwordImageView" destination="bDM-qy-ZLC" id="6fD-c0-CgA"/>
                         <outlet property="passwordTextField" destination="oZW-y5-2f7" id="8Mp-Wj-KzC"/>
+                        <segue destination="Dfa-sg-Okq" kind="modal" identifier="loginToHomeScreen" modalTransitionStyle="flipHorizontal" id="3V2-VP-KjW"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
@@ -418,6 +436,7 @@ Gummi bears pie tootsie roll sweet roll wafer halvah applicake danish.</string>
                             <outlet property="delegate" destination="SCO-8L-eUN" id="LV1-lk-V0K"/>
                         </connections>
                     </tableView>
+                    <navigationItem key="navigationItem" id="nhd-kq-QtN"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dyn-7v-HVM" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

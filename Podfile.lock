@@ -1,13 +1,36 @@
 PODS:
+  - AFNetworking (2.0.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.0.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.0.3):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.0.3)
+  - AFNetworking/Security (2.0.3)
+  - AFNetworking/Serialization (2.0.3)
+  - AFNetworking/UIKit (2.0.3):
+    - AFNetworking/NSURLConnection
   - Canvas (0.1.1)
+  - SOCKit (1.1)
   - TPKeyboardAvoiding (1.2.3)
 
 DEPENDENCIES:
+  - AFNetworking (~> 2.0.2)
   - Canvas
+  - SOCKit (~> 1.1)
   - TPKeyboardAvoiding
 
 SPEC CHECKSUMS:
+  AFNetworking: a4d0e9a64de9242986620dafd1b3cee3b413ac5c
   Canvas: 45356a2e61087a776bfde5090676d290cf67f7f2
+  SOCKit: d8d0dd3688ae1026c12367570da8fa8e1a6980fb
   TPKeyboardAvoiding: ca26afa683d829cb96fe69b887fc8be4178f0b9a
 
 COCOAPODS: 0.33.1

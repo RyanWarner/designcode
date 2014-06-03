@@ -24,6 +24,7 @@
 		FF4228BB193C3F9200866A13 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FF4228B9193C3F9200866A13 /* InfoPlist.strings */; };
 		FF4228BD193C3F9200866A13 /* Nature_NewsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF4228BC193C3F9200866A13 /* Nature_NewsTests.m */; };
 		FFA4D83C193CFD7D000A36AB /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFA4D83B193CFD7D000A36AB /* HomeViewController.m */; };
+		FFAF0A56193E651F0008E663 /* DNAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = FFAF0A55193E651F0008E663 /* DNAPI.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		FF4228BC193C3F9200866A13 /* Nature_NewsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Nature_NewsTests.m; sourceTree = "<group>"; };
 		FFA4D83A193CFD7D000A36AB /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		FFA4D83B193CFD7D000A36AB /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		FFAF0A54193E651F0008E663 /* DNAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DNAPI.h; path = ../DNAPI.h; sourceTree = "<group>"; };
+		FFAF0A55193E651F0008E663 /* DNAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DNAPI.m; path = ../DNAPI.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +136,8 @@
 				FF422895193C3F9200866A13 /* Supporting Files */,
 				FFA4D83A193CFD7D000A36AB /* HomeViewController.h */,
 				FFA4D83B193CFD7D000A36AB /* HomeViewController.m */,
+				FFAF0A54193E651F0008E663 /* DNAPI.h */,
+				FFAF0A55193E651F0008E663 /* DNAPI.m */,
 			);
 			path = "Nature News";
 			sourceTree = "<group>";
@@ -303,6 +308,7 @@
 				FF42289F193C3F9200866A13 /* AppDelegate.m in Sources */,
 				FF42289B193C3F9200866A13 /* main.m in Sources */,
 				FFA4D83C193CFD7D000A36AB /* HomeViewController.m in Sources */,
+				FFAF0A56193E651F0008E663 /* DNAPI.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
