@@ -247,8 +247,8 @@ t1401742826
 s743
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphonesimulator/Nature News.build/Objects-normal/i386/ViewController.o
-t1401751852
-s39872
+t1401757926
+s61136
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphonesimulator/Nature News.build/Objects-normal/i386/main.o
 t1401751852
@@ -306,11 +306,11 @@ t1401751790
 s117420
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app
-t1401752017
+t1401758323
 s680
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app.dSYM
-t1401751852
+t1401757926
 s102
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Base.lproj/Main_iPad.storyboardc
@@ -318,16 +318,16 @@ t1401733648
 s170
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Base.lproj/Main_iPhone.storyboardc
-t1401752037
-s306
+t1401758337
+s170
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Info.plist
 t1401751792
 s1580
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Nature News
-t1401751852
-s160260
+t1401757926
+s168848
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/PkgInfo
 t1401751792
@@ -358,9 +358,9 @@ t1401686034
 s1811
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard
-c00000000538D09E5000000000000D11A
-t1401752037
-s53530
+c00000000538D2281000000000000D633
+t1401758337
+s54835
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/HomeViewController.h
 c00000000538CC5FD00000000000000E2
@@ -393,9 +393,9 @@ t1401686034
 s218
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/ViewController.m
-c00000000538CC6A3000000000000027D
-t1401734819
-s637
+c00000000538D20E500000000000006F8
+t1401757925
+s1784
 
 N/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/en.lproj/InfoPlist.strings
 c00000000538C0812000000000000002D
@@ -556,7 +556,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies59c01c65413db941^e99c2365413db941^---0#1#1#--18"Check dependencies36"9F72379C-8A0D-4732-B01E-9B4AADC3A66C-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3a5794015a3db941^e4bd96015a3db941^---0#1#1#--18"Check dependencies36"A75C5541-0D3D-4CAB-9B70-1FC933A62E81-
 
 CCompileAssetCatalog /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Images.xcassets
 s423444591.151938
@@ -617,8 +617,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile
 bCA551A4A-CBDF-42FA-93A3-E06A9190FDE7
 
 CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s423444652.752507
-e423444652.813239
+s423450725.968880
+e423450726.043549
 r1
 xCompileC
 xDerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphonesimulator/Nature News.build/Objects-normal/i386/ViewController.o
@@ -629,8 +629,8 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/ViewController.m
 d/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ryanwarner/Desktop/my_projects/designcode/Nature News/ViewController.m248"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o Nature\ News/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd8bac0ac403db941^ad31d0ac403db941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/ViewController.m0000000000000000^4491"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o Nature\ News/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryanwarner/Desktop/my_projects/designcode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/include -I/Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers -I/Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers/Canvas -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/DerivedSources/i386 -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -isystem /Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers -isystem /Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers/Canvas -include /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-bkrzzvqrkjryegcscbsmeasyayqq/Nature\ News-Prefix.pch -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.dia -c /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/ViewController.m -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o36"58170345-E17E-46FC-A741-1C5F35ACBE3A-
-bCA551A4A-CBDF-42FA-93A3-E06A9190FDE7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/ryanwarner/Desktop/my_projects/designcode/Nature News/ViewController.m248"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o Nature\ News/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler691ef865583db941^aa270b66583db941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/ViewController.m0000000000000000^4491"CompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o Nature\ News/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ryanwarner/Desktop/my_projects/designcode    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-generated-files.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-own-target-headers.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-all-target-headers.hmap -iquote /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Nature\ News-project-headers.hmap -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/include -I/Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers -I/Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers/Canvas -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/DerivedSources/i386 -I/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/DerivedSources -F/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -isystem /Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers -isystem /Users/ryanwarner/Desktop/my_projects/designcode/Pods/Headers/Canvas -include /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/PrecompiledHeaders/Nature\ News-Prefix-bkrzzvqrkjryegcscbsmeasyayqq/Nature\ News-Prefix.pch -MMD -MT dependencies -MF /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.dia -c /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/ViewController.m -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/ViewController.o36"330E2B01-B453-4CFD-BCE2-E4CE1EDE2007-
+b8B41E86D-4022-4D20-83A9-7495A754E4C3
 
 CCompileC DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/main.o /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s423444652.753096
@@ -706,13 +706,15 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile
 b95140712-DF63-4DA2-AF80-186F88C9F9B4
 
 CCompileStoryboard /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard
-s423444837.141533
-e423444837.535288
+s423451137.607444
+e423451137.822667
 r1
 xCompileStoryboard
 x/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboardd8462465413db941^cc0a8965413db941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^930"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Base.lproj/Main_iPhone.storyboardc /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard36"00ECE197-F188-4AEE-AA03-A6311DB222B1-
-b94B6E025-D66A-49E4-9015-4C695A39D493
+o/* com.apple.ibtool.document.warnings */
+o/Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard:Dfa-sg-Okq: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:. [9]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard64"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard828d9b015a3db941^709ad2015a3db941^-304"/* com.apple.ibtool.document.warnings *//Users/ryanwarner/Desktop/my_projects/designcode/Nature News/Base.lproj/Main_iPhone.storyboard:Dfa-sg-Okq: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.1(21%IDEActivityLogMessage2@146"Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.-423451137#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@103"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@103"file:///Users/ryanwarner/Desktop/my_projects/designcode/Nature%20News/Base.lproj/Main_iPhone.storyboard0000000000000000^930"CompileStoryboard Nature\ News/Base.lproj/Main_iPhone.storyboard    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Base.lproj/Main_iPhone.storyboardc /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Base.lproj/Main_iPhone.storyboard36"9E3FA205-A1C8-452F-9E4C-383863674EB1-
+bFF47FAC8-4E05-41BA-90E3-EA71D6D6EBD0
 
 CCopyStringsFile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/en.lproj/InfoPlist.strings Nature\ News/en.lproj/InfoPlist.strings
 s423426447.841476
@@ -725,18 +727,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Na
 b95140712-DF63-4DA2-AF80-186F88C9F9B4
 
 CGenerateDSYMFile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News
-s423444652.886401
-e423444652.920028
+s423450726.443495
+e423450726.477637
 r1
 xGenerateDSYMFile
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app.dSYM
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Nature News
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generate /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app.dSYM192"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News88f5e2ac403db941^cf87ebac403db941^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature%20News/Build/Products/Debug-iphonesimulator/Nature%20News.app.dSYM/0000000000000000^821"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM36"5E725468-C254-4033-A8FA-58E42C65D8D0-
-bCA551A4A-CBDF-42FA-93A3-E06A9190FDE7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generate /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app.dSYM192"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News81937166583db941^30487a66583db941^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature%20News/Build/Products/Debug-iphonesimulator/Nature%20News.app.dSYM/0000000000000000^821"GenerateDSYMFile DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app.dSYM36"5E4B3F30-B9A7-47BA-ABF9-95B5BE651D73-
+b8B41E86D-4022-4D20-83A9-7495A754E4C3
 
 CLd /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal i386
-s423444652.832211
-e423444652.884446
+s423450726.045088
+e423450726.084315
 r1
 xLd
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Nature News
@@ -812,8 +814,8 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Nature News106"Ld DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal i386f418d5ac403db941^616be2ac403db941^---0#0#1#--1662"Ld DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal i386    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -F/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -filelist /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/Nature\ News.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/Nature\ News_dependency_info.dat -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News36"BD32F62F-8694-4E47-83F0-4EF3693BD9F0-
-bCA551A4A-CBDF-42FA-93A3-E06A9190FDE7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Nature News106"Ld DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal i38668970b66583db941^53961566583db941^---0#0#1#--1662"Ld DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal i386    cd /Users/ryanwarner/Desktop/my_projects/designcode    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -F/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator -filelist /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/Nature\ News.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Objects-normal/i386/Nature\ News_dependency_info.dat -o /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News36"3145D0DF-2DA5-4B5C-AD21-61F808F2C3D3-
+b8B41E86D-4022-4D20-83A9-7495A754E4C3
 
 CLd /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Nature\ News normal x86_64
 s423426447.617226
@@ -897,18 +899,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /
 b95140712-DF63-4DA2-AF80-186F88C9F9B4
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh
-s423444837.113108
-e423444837.139232
+s423451137.580198
+e423451137.604998
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Intermediates/Nature News.build/Debug-iphonesimulator/Nature News.build/Script-45BDE15D3DF34588BFDDE252.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'187"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh70421d65413db941^abae2365413db941^---0#0#1#--452"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh    cd /Users/ryanwarner/Desktop/my_projects/designcode    /bin/sh -c \"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh\"36"0D6D0A01-4264-44FC-BC42-E09DACA4AFE7-
-b94B6E025-D66A-49E4-9015-4C695A39D493
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'187"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.shb7d594015a3db941^cee19a015a3db941^---0#0#1#--452"PhaseScriptExecution Check\ Pods\ Manifest.lock DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh    cd /Users/ryanwarner/Desktop/my_projects/designcode    /bin/sh -c \"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-45BDE15D3DF34588BFDDE252.sh\"36"F0DBD21D-60B2-4AF6-82FE-DF558A079D96-
+bFF47FAC8-4E05-41BA-90E3-EA71D6D6EBD0
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh
-s423444837.535946
-e423444838.108304
+s423451137.823439
+e423451138.399235
 r1
 xPhaseScriptExecution
 xCopy Pods Resources
@@ -920,8 +922,8 @@ ototal size is 0  speedup is 0.00
 o/* com.apple.actool.compilation-results */
 o/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Assets.car
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'182"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sha67f8965413db941^aaba1b66413db941^-293"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-423444837#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-423444837#29#50#-0#-----2@33"total size is 0  speedup is 0.00-423444837#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-423444838#112#43#-0#-----2@137"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Assets.car-423444838#155#137#-0#-----0#0#1#--447"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh    cd /Users/ryanwarner/Desktop/my_projects/designcode    /bin/sh -c \"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh\"36"25997715-E648-4072-849D-653CEFA6F9F9-
-b94B6E025-D66A-49E4-9015-4C695A39D493
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'182"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh4418d3015a3db941^a83466025a3db941^-293"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-423451137#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-423451137#29#50#-0#-----2@33"total size is 0  speedup is 0.00-423451137#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-423451138#112#43#-0#-----2@137"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app/Assets.car-423451138#155#137#-0#-----0#0#1#--447"PhaseScriptExecution Copy\ Pods\ Resources DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh    cd /Users/ryanwarner/Desktop/my_projects/designcode    /bin/sh -c \"/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Intermediates/Nature\ News.build/Debug-iphonesimulator/Nature\ News.build/Script-A2487B9E4E9F4DF495F35764.sh\"36"E24D7DD1-5F2D-42F3-85BB-D900849F12F7-
+bFF47FAC8-4E05-41BA-90E3-EA71D6D6EBD0
 
 CProcessInfoPlistFile /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app/Info.plist /Users/ryanwarner/Desktop/my_projects/designcode/Nature\ News/Nature\ News-Info.plist
 s423444592.214558
@@ -1012,11 +1014,11 @@ CProcessPCH /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\
 r0
 
 CTouch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app
-s423444838.108720
-e423444838.116105
+s423451138.399613
+e423451138.406642
 r1
 xTouch
 x/Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Touch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app84"Touch DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app1adf1b66413db941^b2ba1d66413db941^---0#0#1#--486"Touch DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app36"9DCAC623-6B05-4E99-BDFC-165F25411814-
-b94B6E025-D66A-49E4-9015-4C695A39D493
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Touch /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature News/Build/Products/Debug-iphonesimulator/Nature News.app84"Touch DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app325766025a3db941^df1a68025a3db941^---0#0#1#--486"Touch DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app    cd /Users/ryanwarner/Desktop/my_projects/designcode    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ryanwarner/Desktop/my_projects/designcode/DerivedData/Nature\ News/Build/Products/Debug-iphonesimulator/Nature\ News.app36"64BD047C-655C-45B5-9852-134FD1651725-
+bFF47FAC8-4E05-41BA-90E3-EA71D6D6EBD0
 
